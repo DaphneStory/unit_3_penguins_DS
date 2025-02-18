@@ -1,0 +1,11 @@
+species,sex,island,mean_mass_g
+Adelie,female,Biscoe,3369.318181818182
+Adelie,female,Dream,3344.4444444444443
+Adelie,female,Torgersen,3395.8333333333335
+Adelie,male,Biscoe,4050
+Adelie,male,Dream,4045.535714285714
+Adelie,male,Torgersen,4034.782608695652
+Chinstrap,female,Dream,3527.205882352941
+Chinstrap,male,Dream,3938.970588235294
+Gentoo,female,Biscoe,4679.741379310345
+Gentoo,male,Biscoe,5484.836065573771
